@@ -1,2 +1,1 @@
-# yiqian-updates
-以前。現在。未來 試玩熱更新（manifest + pck only）
+updates repo: hot-update manifests and PCK releases only. Game source stays private.
