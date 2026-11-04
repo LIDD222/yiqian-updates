@@ -1,8 +1,8 @@
 {
-  "content_version": "0.4.0",
+  "content_version": "0.4.1",
   "min_shell_version": "0.4.0",
-  "pck_url": "",
-  "sha256": "",
-  "notes_zh": "初始清單（尚無內容包）",
-  "apk_url": ""
+  "pck_url": "https://github.com/LIDD222/yiqian-updates/releases/download/content-0.4.1/content-0.4.1.pck",
+  "sha256": "0067ebf05764c32b863ce31453bfa0db8fdcb28c8093afce67b780206df4e1ca",
+  "notes_zh": "熱更新驗證：大廳顯示內容版號；線上自動拉包。",
+  "apk_url": "https://github.com/LIDD222/yiqian-updates/releases/latest/download/以前現在未來_試玩版.apk"
 }
