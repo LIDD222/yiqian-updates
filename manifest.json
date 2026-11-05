@@ -1,8 +1,9 @@
 {
-  "content_version": "0.5.1",
+  "content_version": "0.5.2",
   "min_shell_version": "0.4.0",
-  "pck_url": "https://github.com/LIDD222/yiqian-updates/releases/download/content-0.5.1/content-0.5.1.pck",
-  "sha256": "1aacb94f48c63c97be8de8ad7e9b11fb7812da3bc8a0e645cd4c92d1f4d6645b",
-  "notes_zh": "v5.1：手牌全用圖鑑真圖、你知道嗎重寫、來源具名、卡背紙紋、場景／敵人各＋3",
+  "pck_url": "https://github.com/LIDD222/yiqian-updates/releases/download/content-0.5.2/content-0.5.2.pck",
+  "sha256": "21913d007f0b1f825d740b9807215e10aa3c3fbc843c8733ee1212c0d50b2167",
+  "notes_zh": "緊急修復：熱更新後重綁資料層，解決進不去主畫面",
+  "size_bytes": 93409284,
   "apk_url": "https://github.com/LIDD222/yiqian-updates/releases/latest/download/以前現在未來_試玩版.apk"
 }
