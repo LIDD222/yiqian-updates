@@ -1,8 +1,8 @@
 {
-  "content_version": "0.4.1",
+  "content_version": "0.5.0",
   "min_shell_version": "0.4.0",
-  "pck_url": "https://github.com/LIDD222/yiqian-updates/releases/download/content-0.4.1/content-0.4.1.pck",
-  "sha256": "0067ebf05764c32b863ce31453bfa0db8fdcb28c8093afce67b780206df4e1ca",
-  "notes_zh": "熱更新驗證：大廳顯示內容版號；線上自動拉包。",
+  "pck_url": "https://github.com/LIDD222/yiqian-updates/releases/download/content-0.5.0/content-0.5.0.pck",
+  "sha256": "c5d546de5bbdee699476a2bcb6f5f3a5ca2d6189f7595c0f0b1abe80caa7b209",
+  "notes_zh": "v5：守夜對戰三屬性剋制＋燈火＋求籤；110卡圖鑑翻面來源；三身分開場15＋主線M01＋今夜怪談12；據點燈火上限／離線產出生效",
   "apk_url": "https://github.com/LIDD222/yiqian-updates/releases/latest/download/以前現在未來_試玩版.apk"
 }
